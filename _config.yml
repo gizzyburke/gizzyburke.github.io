@@ -1,10 +1,9 @@
 title: Elizabeth Burke # your name (or website title) here
-logo: "/images/thumbnail_image0.jpg?raw=true" # your photo (or logo) here
+logo: "/images/IMG_8589.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+ 
   Current master's student pursuing a degree in Geospatial Technology, working as a Lab Technician. 
-  Second description 
-  <br><br>
+  
   
   
 theme: jekyll-theme-minimal
