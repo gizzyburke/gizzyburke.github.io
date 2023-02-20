@@ -2,28 +2,21 @@
 
 ---
 
-### Category Name 1 
+### Mapping Projects and Analysis
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Prevelance of Karenia Brevis in Florida](/images/Red Tide Locations.png)
+<img src="images/Red Tide Locations.png?raw=true"/>
 
 ---
 
-### Category Name 2
+[Backcountry Campsite Suitability in East Tennessee](http://example.com/](https://storymaps.arcgis.com/stories/4d624daf97ec4162b4cfb5fbdddd3a33)
+<img src="images/FINAL PROJECT_Presentation.jpg?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+
+### Quick Site Links
+
+- [Backcountry Campsite Suitability in East Tennessee]([http://example.com/](http://example.com/](https://storymaps.arcgis.com/stories/4d624daf97ec4162b4cfb5fbdddd3a33))
 
 ---
 
