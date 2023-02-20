@@ -4,19 +4,19 @@
 
 ### Mapping Projects and Analysis
 
-[Prevelance of Karenia Brevis in Florida](/images/Red Tide Locations.png)
+Prevelance of Karenia Brevis in Florida(/images/Red Tide Locations.png)
 <img src="images/Red Tide Locations.png?raw=true"/>
 
 ---
 
-[Backcountry Campsite Suitability in East Tennessee](http://example.com/](https://storymaps.arcgis.com/stories/4d624daf97ec4162b4cfb5fbdddd3a33)
+Backcountry Campsite Suitability in East Tennessee(http://example.com/](https://storymaps.arcgis.com/stories/4d624daf97ec4162b4cfb5fbdddd3a33)
 <img src="images/FINAL PROJECT_Presentation.jpg?raw=true"/>
 
 ---
 
 ### Quick Site Links
 
-- [Backcountry Campsite Suitability in East Tennessee]([http://example.com/](http://example.com/](https://storymaps.arcgis.com/stories/4d624daf97ec4162b4cfb5fbdddd3a33))
+- Backcountry Campsite Suitability in East Tennessee([http://example.com/](http://example.com/](https://storymaps.arcgis.com/stories/4d624daf97ec4162b4cfb5fbdddd3a33))
 
 ---
 
