@@ -9,14 +9,14 @@
 
 ---
 
-Backcountry Campsite Suitability in East Tennessee(https://storymaps.arcgis.com/stories/4d624daf97ec4162b4cfb5fbdddd3a33)
+[Backcountry Campsite Suitability in East Tennessee](https://storymaps.arcgis.com/stories/4d624daf97ec4162b4cfb5fbdddd3a33)
 <img src="images/FINAL PROJECT_Presentation.jpg?raw=true"/>
 
 ---
 
 ### Quick Site Links
 
-- Backcountry Campsite Suitability in East Tennessee(https://storymaps.arcgis.com/stories/4d624daf97ec4162b4cfb5fbdddd3a33)
+- [Backcountry Campsite Suitability in East Tennessee](https://storymaps.arcgis.com/stories/4d624daf97ec4162b4cfb5fbdddd3a33)
 
 ---
 
