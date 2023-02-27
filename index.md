@@ -14,6 +14,7 @@
 
 ---
 
+[Backcountry Campsites in GRSMNP]
 [![Backcountry Campsites in GRSMNP](images/GRSMNP.jpg)](https://arcg.is/brWm9)
 
 ---
