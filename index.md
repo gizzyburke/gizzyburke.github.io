@@ -13,8 +13,9 @@
 <img src="images/FINAL PROJECT_Presentation.jpg?raw=true"/>
 
 ---
-[Backcountry Campsites in GSMNP](https://arcg.is/brWm9)
-<img src="images/FINAL PROJECT_Presentation.jpg?raw=true"/>
+
+[Backcountry Campsites in GRSMNP](https://arcg.is/brWm9)
+<img src="images/GRSMNP.jpg?raw=true"/>
 
 ---
 ### Quick Site Links
@@ -23,8 +24,7 @@
 
 ---
 
-
-
+[Backcountry Campsites in GRSMNP](https://arcg.is/brWm9)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
