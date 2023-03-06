@@ -20,7 +20,7 @@
 ---
 
 [Using Sentinel for Fire Monitoring]
-[![Using Snetinel for Fire Monitoring](image/Burned.jpg)](https://gizzyburke.users.earthengine.app/view/sentinel-fire-monitoring)
+[![Using Sentinel for Fire Monitoring](image/Burned.jpg)](https://gizzyburke.users.earthengine.app/view/sentinel-fire-monitoring)
 
 ---
 ### Quick Site Links
